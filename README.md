@@ -20,7 +20,7 @@ I'm a **Frontend Web Developer** passionate about building modern, scalable web 
 
 ## ✨ Motto
 
-> "I'm a Frontend Developer passionate about building modern web applications with React.js, Next.js, and TypeScript."
+> "Building better every day — mastering frontend, understanding backend, and crafting solutions that matter."
 
 ## 📫 Connect with Me
 
